@@ -9,4 +9,3 @@ x = open("gg.txt", 'r')
 for alp in x:
     pyautogui.typewrite(alp)
     pyautogui.press("enter")
-    # ll
